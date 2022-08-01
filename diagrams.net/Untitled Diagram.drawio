@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T06:36:15.801Z" agent="5.0 (Macintosh)" etag="Ac62m4oxPDLOgIL4viKU" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T07:25:57.483Z" agent="5.0 (Macintosh)" etag="t9eWZfU7oCuyxJGhQuGt" version="20.2.2" type="github">
   <diagram id="V48ThPlOWSSbvWHUWCuM" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
           <mxGeometry x="26.25" y="210" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Fm2oHoVELTGUY9FenmD1-28" value="&lt;div&gt;云桶&lt;/div&gt;&lt;div&gt;（Tencent COS）&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bucket;rounded=1;shadow=0;glass=0;hachureGap=4;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="60" height="60" as="geometry" />
+          <mxGeometry x="320" y="40" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fm2oHoVELTGUY9FenmD1-40" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=14;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fm2oHoVELTGUY9FenmD1-31" target="Fm2oHoVELTGUY9FenmD1-39">
           <mxGeometry relative="1" as="geometry" />
@@ -41,20 +41,26 @@
         <mxCell id="Fm2oHoVELTGUY9FenmD1-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=14;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Fm2oHoVELTGUY9FenmD1-31" target="Fm2oHoVELTGUY9FenmD1-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fm2oHoVELTGUY9FenmD1-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=14;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fm2oHoVELTGUY9FenmD1-31" target="Fm2oHoVELTGUY9FenmD1-43">
+        <mxCell id="Fm2oHoVELTGUY9FenmD1-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=14;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fm2oHoVELTGUY9FenmD1-31" target="Fm2oHoVELTGUY9FenmD1-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fm2oHoVELTGUY9FenmD1-31" value="&lt;div&gt;负载均衡&lt;/div&gt;&lt;div&gt;（Tencent CLB）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1;startSize=23;rounded=1;shadow=0;glass=0;sketch=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm2oHoVELTGUY9FenmD1-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=14;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Fm2oHoVELTGUY9FenmD1-39" target="Fm2oHoVELTGUY9FenmD1-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fm2oHoVELTGUY9FenmD1-39" value="PC 网关" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1;startSize=23;rounded=1;shadow=0;glass=0;sketch=1;hachureGap=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fm2oHoVELTGUY9FenmD1-41" value="Mobile App 网关" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1;startSize=23;rounded=1;shadow=0;glass=0;sketch=1;hachureGap=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="520" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fm2oHoVELTGUY9FenmD1-43" value="小程序网关" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1;startSize=23;rounded=1;shadow=0;glass=0;sketch=1;hachureGap=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm2oHoVELTGUY9FenmD1-45" value="服务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;startSize=23;rounded=1;shadow=0;glass=0;sketch=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="690" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
