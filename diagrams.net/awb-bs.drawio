@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T05:51:49.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.3" etag="t6kFzFhiH9an7kfqSf3X" type="github"><diagram id="V4tntubHUzGJTWUHPKY7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-15T08:11:26.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mtEw_XsYquq2maWhKTGG" version="20.2.3" type="github">
+  <diagram id="V4tntubHUzGJTWUHPKY7" name="第 1 页">
+    <mxGraphModel dx="2206" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BHr4r6qDHze7V1CES1Pj-1" value="爱玩宝火把版业务架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;hachureGap=4;fontFamily=Comic Sans MS;fontSize=29;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="190" width="308" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="BHr4r6qDHze7V1CES1Pj-6" value="消费端" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-513" y="350" width="408" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="BHr4r6qDHze7V1CES1Pj-7" value="会员站" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-501" y="392.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BHr4r6qDHze7V1CES1Pj-8" value="App" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-369" y="392.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BHr4r6qDHze7V1CES1Pj-9" value="PC" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-237" y="392.5" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
